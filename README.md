@@ -1,7 +1,10 @@
-# K1 Epoxy & Coatings — Marketing Site Mockup
+# K1 Epoxy & Coatings — Marketing Site
 
-Static single-page marketing site. Plain HTML/CSS/JS, no build step.
+Premium single-page mockup for **K1 Epoxy & Coatings** (North Carolina).
+Static HTML/CSS/vanilla JS — no build step. Deployed via GitHub Pages.
 
-Deployed via GitHub Pages. Open `index.html` locally to preview.
+- Real brand logo, black/orange palette
+- Real floor photos pulled from k1epoxy.com
+- Real phone: 919-356-4416 · IG @k1_epoxy
 
-_Demo mockup — gallery images and testimonials are placeholders to be swapped for real @k1_epoxy content._
+Live: https://lakesidefitness247.github.io/k1-epoxy-preview/

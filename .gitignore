@@ -1,0 +1,6 @@
+tmp/
+agent/
+node_modules/
+build.log
+*.bak*
+.DS_Store
